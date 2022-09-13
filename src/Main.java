@@ -1,5 +1,6 @@
 public class Main {
     public static void main(String[] args) {
+        System.out.print("Новый проект Homework3_New - это полная копия Homework3");
         System.out.println("Задача 1");
 
         byte a = 10;
